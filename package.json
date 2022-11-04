@@ -1,0 +1,28 @@
+{
+  "name": "sql-day-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadnazamikit/sql-day-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadnazamikit/sql-day-4/issues"
+  },
+  "homepage": "https://github.com/mohammadnazamikit/sql-day-4#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-list-endpoints": "^6.0.0",
+    "http-errors": "^2.0.0",
+    "pg": "^8.8.0",
+    "sequelize": "^6.25.3"
+  }
+}
